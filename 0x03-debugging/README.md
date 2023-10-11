@@ -1,4 +1,4 @@
-# 0x02 - C - Functions, Nested Loops
+# 0x03 - Debugging
 
 The following C scripts in the current directory do the following tasks:
 
